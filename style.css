@@ -80,28 +80,3 @@ h1 {
   margin-bottom: 90px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-.mid-size {
-  font-size: 1.5em;
-}
-.mid-box {
-  display: flex;
-}
-.mid-pic-size {
-  width: 50%;
-  margin-left: 180px;
-}
-.mid-hp-size {
-  width: 50%;
-  margin-right: 180px;
-}
-.mid-point {
-  font-size: 20px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
-.mid-ancher {
-  text-decoration: none;
-  background-color: #e92c16;
-  padding: 10px 20px;
-  color: white;
-  border-radius: 5px;
-}
