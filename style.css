@@ -112,3 +112,14 @@ p {
 .mid-full {
   margin-top: 90px;
 }
+.title {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3em;
+}
+.footer {
+  margin-top: 90px;
+}
+.footer-div {
+  display: flex;
+}
