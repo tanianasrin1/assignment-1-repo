@@ -103,3 +103,17 @@ h1 {
 p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.mid-box1 {
+  display: flex;
+}
+.mid-pic1 {
+  width: 50%;
+  margin-right: 60px;
+}
+.mid-theory1 {
+  width: 50%;
+  margin-left: 180px;
+}
+.mid-full {
+  margin-top: 90px;
+}
