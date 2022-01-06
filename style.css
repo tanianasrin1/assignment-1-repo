@@ -19,12 +19,7 @@
 h1 {
   margin-top: 25px;
 }
-.button {
-  background-color: #e92c16;
-  padding: 10px 20px;
-  color: white;
-  border-radius: 5px;
-}
+
 .header {
   display: flex;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -80,7 +75,7 @@ h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .text-button {
-  background-color: #e92c16;
+  background-color: #16d3e9;
   padding: 10px 20px;
   color: white;
   border-radius: 5px;
